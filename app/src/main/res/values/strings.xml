@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localisation</string>
+    <string name="google_maps_key">YOUR_API_MAPSKEY</string>
+    <string name="map_key_missing">La clé API Google Maps est manquante ou invalide.</string>
+    <string name="provider_enabled">The provider %s is now enabled</string>
+    <string name="provider_disabled">The provider %s is now disabled</string>
+    <string name="provider_new_status">The provider %1$s has now a new status %2$s</string>
+    <string name="new_location">New Location : Latitude = %1$s, Longitude = %2$s, Altitude = %3$s avec une precision de %4$s metres</string>
+    <string name="permission_location_refused">Permission localisation refusee</string>
+    <string name="network_error">Erreur reseau: %s</string>
+    <string name="map_button">Afficher Map</string>
+    <string name="latitude_placeholder">Latitude: -</string>
+    <string name="longitude_placeholder">Longitude: -</string>
+    <string name="map_fragment_error">Impossible de charger la carte.</string>
+    <string name="positions_loaded">Positions chargees: %1$d</string>
+</resources>
